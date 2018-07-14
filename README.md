@@ -8,3 +8,5 @@
 - Ricardo Bautista
 - Jeferson Argueta
 - Kevin Argueta
+- Mario Sazo
+- Victor Fernández
