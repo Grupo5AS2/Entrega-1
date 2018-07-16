@@ -5,7 +5,7 @@
 ### Grupo 5
 - Jose Cornejo (coordinador)
 - Pablo Mazariegos
-- Ricardo Bautista
+- Ricardo Bautista 0901-15-13788
 - Jeferson Argueta
 - Kevin Argueta
 - Mario Sazo
